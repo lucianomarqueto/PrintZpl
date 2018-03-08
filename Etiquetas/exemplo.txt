@@ -1,0 +1,11 @@
+^XA
+
+^FX Top section with company logo, name and address.
+^CF0,60
+^FO50,50^GB100,100,100^FS
+^FO75,75^FR^GB100,100,100^FS
+^FO88,88^GB50,50,50^FS
+^FO220,50^FDExemplo [FIX_FIXO]^FS
+^CF0,40
+^FO220,100^FD[VAR_VARIAVEL-1]^FS
+^XZ
