@@ -1,29 +1,29 @@
-@author: lUciano marqueto
+@author: Luciano Marqueto
 @python version: 2.5
 Created on 03/09/2013
 
 -UTILIZACAO DO PROGRAMA
 
-A Etiqueta deve ser colocada na pasta ”etiquetas”
-Caso o computador não tenha python instalado rodar o instalador python-2.5
+A Etiqueta deve ser colocada na pasta ï¿½etiquetasï¿½
+Caso o computador nï¿½o tenha python instalado rodar o instalador python-2.5
 Executar PrintZpl.py
- - Caso seja executado com linha de comando o nome da etiqueta pode ser passada  como parâmetro
-Caso não seja enviado por parâmetro o programa ira solicitar o nome da etiqueta. 
- - Não é necessário informar a pasta apenas o nome e a extenção (ex: etiqueta.txt)
-Serão solicitados todos os campos fixos
-O programa deve perguntar, caso encontre campos variáveis, se serão utilizados todos os campos
- - caso não serão todos utilizados deve ser informado quais serão e quais não serão utilizados
-Serão solicitados todos os campos variáveis interação 
+ - Caso seja executado com linha de comando o nome da etiqueta pode ser passada  como parï¿½metro
+Caso nï¿½o seja enviado por parï¿½metro o programa ira solicitar o nome da etiqueta. 
+ - Nï¿½o ï¿½ necessï¿½rio informar a pasta apenas o nome e a extenï¿½ï¿½o (ex: etiqueta.txt)
+Serï¿½o solicitados todos os campos fixos
+O programa deve perguntar, caso encontre campos variï¿½veis, se serï¿½o utilizados todos os campos
+ - caso nï¿½o serï¿½o todos utilizados deve ser informado quais serï¿½o e quais nï¿½o serï¿½o utilizados
+Serï¿½o solicitados todos os campos variï¿½veis interaï¿½ï¿½o 
 
 -CONFIGURACAO DA ETIQUETA
 
 Programa para imprimir etiquetas ZPL
 Configurar a etiqueta da seguinte forma
-Campos fixos (serão solicitados apenas uma vez no inicio do programa)
-[FIX_Z] sendo que Z deve ser substituído pelo nome do campo
+Campos fixos (serï¿½o solicitados apenas uma vez no inicio do programa)
+[FIX_Z] sendo que Z deve ser substituï¿½do pelo nome do campo
 
-Campos variáveis serão solicitados a cada impressão
-[VAR_Z-Y] sendo que Z deve ser substituído pelo nome do campo e Y pela sequencia
+Campos variï¿½veis serï¿½o solicitados a cada impressï¿½o
+[VAR_Z-Y] sendo que Z deve ser substituï¿½do pelo nome do campo e Y pela sequencia
 
-Linhas variáveis (quando uma variável não for utilizada e sua linha não deve ser impressa)
-[LZ-Y] sendo que Z deve ser substituído pelo nome do campo e Y pela sequencia
+Linhas variï¿½veis (quando uma variï¿½vel nï¿½o for utilizada e sua linha nï¿½o deve ser impressa)
+[LZ-Y] sendo que Z deve ser substituï¿½do pelo nome do campo e Y pela sequencia
